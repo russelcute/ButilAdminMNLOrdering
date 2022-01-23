@@ -7,7 +7,7 @@
     "dev": "nodemon ./src/app.ts",
     "start": "node ./build/app.js"
   },
-  "author": "nathan.almazan1004@gmail.com",
+  "author": "russelrdelosangeles@gmail.com",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.1",
